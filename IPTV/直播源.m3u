@@ -328,14 +328,9 @@ https://livednow.com/migu/644368373?sign=gAAAAABmsk8xkgipeV5mzvQR5scV9Czal0MEmix
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://assets.livednow.com/logo/欢笑剧场.png" group-title="影视",欢笑剧场
 https://livednow.com/migu/790187880?sign=gAAAAABmsk8xsIq1LBcfwTcxcvWAyh2JYwcE3LjzK3fovWo8Hqc0ArAq6MYOe5-egfgLYvHM9iim6Yt7KOIiY6aoawkAR3zAKXSEKj1fNVU06WcIm1zPMpVmtq9ZkuCvk5UrshnQSLjkMaLn5hxKk1Hru8IgYQhA8oAr1WoClksvthfjiN5A4ePdR2nEQzg8QmsXXfW-nlI5CbNX9psEUlH93F2iGnwftg%3D%3D
 
-#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="影视",豆瓣高分
-http://maomao.kandiantv.cn/douyu1.php?id=8770422
 
 #EXTINF:-1,tvg-id="CIBN喜剧影院" tvg-name="CIBN喜剧影院" tvg-logo="https://epg.v1.mk/logo/CIBN喜剧影院.png" group-title="影视",喜剧电影
 http://159.75.85.63:35455/douyu/9292492
-
-#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="影视",恐怖惊悚
-http://159.75.85.63:35455/douyu/96577
 
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.v1.mk/logo/黑莓电影.png" group-title="影视",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
